@@ -42,16 +42,10 @@ A responsive task management dashboard built with React and Vite, based on the c
 - Plain CSS
 - `localStorage` for data (no backend)
 
-## Run locally
+## Run public url
 
-```bash
-git clone https://github.com/DKalyanChowdary/focusboard-assignment.git
-cd focusboard-assignment
-npm install
-npm run dev
-```
 
-Open http://localhost:5173. To create a production build, run `npm run build`.
+Open https://focusboard-assignment.vercel.app/. To create a production build, run `npm run build`.
 
 ## Project structure
 
